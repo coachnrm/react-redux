@@ -36,7 +36,7 @@ const Calculator = () => {
     return (
         <>
             <div className='container-fluid p-3'>
-                <h1>Redux Calculator2</h1>
+                <h1>Redux Calculator234</h1>
                 <div className='calculator'>
                     <input 
                       type="number" 
